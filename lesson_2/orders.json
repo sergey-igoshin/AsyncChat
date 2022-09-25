@@ -1,0 +1,28 @@
+{
+    "orders": [
+        {
+            "item": "LENOVO",
+            "quantity": 1,
+            "price": 100000.0,
+            "buyer": "Petrov",
+            "date": "22-09-2022 09:51",
+            "currency": "\u20ac"
+        },
+        {
+            "item": "DELL",
+            "quantity": 3,
+            "price": 58000.0,
+            "buyer": "Petrov",
+            "date": "22-09-2022 09:51",
+            "currency": "$"
+        },
+        {
+            "item": "ACER",
+            "quantity": 2,
+            "price": 100000.0,
+            "buyer": "Ivanov",
+            "date": "22-09-2022 09:51",
+            "currency": "\u20ac"
+        }
+    ]
+}
