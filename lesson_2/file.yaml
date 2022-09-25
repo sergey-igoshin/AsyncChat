@@ -1,0 +1,19 @@
+orders:
+- buyer: Petrov
+  currency: €
+  date: 22-09-2022 09:51
+  item: LENOVO
+  price: 100000.0
+  quantity: 1
+- buyer: Petrov
+  currency: $
+  date: 22-09-2022 09:51
+  item: DELL
+  price: 58000.0
+  quantity: 3
+- buyer: Ivanov
+  currency: €
+  date: 22-09-2022 09:51
+  item: ACER
+  price: 100000.0
+  quantity: 2
