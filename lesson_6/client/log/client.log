@@ -1,0 +1,14 @@
+2022-10-07 10:51:48,241 - INFO - client - Функция parse_client_arguments() вызвана из функции main
+2022-10-07 10:51:48,247 - INFO - client - parse_client_arguments() вернула ('localhost', 7777)
+2022-10-07 10:51:48,255 - DEBUG - client - Соединение с сервером установлено
+2022-10-07 10:51:58,617 - INFO - client - Функция message_dumps() вызвана из функции main
+2022-10-07 10:51:58,617 - INFO - client - message_dumps() вернула {"action": "presence", "message": "Text"}
+2022-10-07 10:51:58,619 - INFO - client - Функция get_response() вызвана из функции main
+2022-10-07 10:51:58,619 - INFO - client - get_response() вернула ['127.0.0.1', 50871] Text 07-10-2022 10:51:58
+2022-10-07 10:51:58,620 - DEBUG - client - ['127.0.0.1', 50871] Text 07-10-2022 10:51:58
+2022-10-07 10:52:03,891 - INFO - client - Функция message_dumps() вызвана из функции main
+2022-10-07 10:52:03,891 - INFO - client - message_dumps() вернула {"action": "presence", "message": "Text"}
+2022-10-07 10:52:03,894 - INFO - client - Функция get_response() вызвана из функции main
+2022-10-07 10:52:03,894 - INFO - client - get_response() вернула ['127.0.0.1', 50871] Text 07-10-2022 10:52:03
+2022-10-07 10:52:03,894 - DEBUG - client - ['127.0.0.1', 50871] Text 07-10-2022 10:52:03
+2022-10-07 10:56:07,972 - CRITICAL - client - Соединение с сервером разорвано
