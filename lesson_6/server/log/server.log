@@ -1,0 +1,9 @@
+2022-10-07 10:51:45,416 - INFO - server - Функция parse_server_arguments() вызвана из функции main
+2022-10-07 10:51:45,422 - INFO - server - parse_server_arguments() вернула ('localhost', 7777)
+2022-10-07 10:51:45,426 - DEBUG - server - Start
+2022-10-07 10:51:48,255 - DEBUG - server - Соединение установлено с ('127.0.0.1', 50871)
+2022-10-07 10:51:58,618 - INFO - server - Функция get_action() вызвана из функции main
+2022-10-07 10:51:58,618 - INFO - server - get_action() вернула {'response': 200, 'data': {'message': 'Text', 'time': '07-10-2022 10:51:58'}, 'address': ('127.0.0.1', 50871)}
+2022-10-07 10:52:03,892 - INFO - server - Функция get_action() вызвана из функции main
+2022-10-07 10:52:03,894 - INFO - server - get_action() вернула {'response': 200, 'data': {'message': 'Text', 'time': '07-10-2022 10:52:03'}, 'address': ('127.0.0.1', 50871)}
+2022-10-07 10:56:07,972 - CRITICAL - server - Stop
