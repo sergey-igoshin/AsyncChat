@@ -1,0 +1,36 @@
+2022-10-10 18:47:58,550 - DEBUG - server - Start
+2022-10-10 18:48:13,794 - INFO - server - ('127.0.0.1', 58565) подключился к чату
+2022-10-10 18:48:13,794 - INFO - server - ('127.0.0.1', 58565) подключился к чату
+2022-10-10 18:48:38,510 - INFO - server - ('127.0.0.1', 58598) подключился к чату
+2022-10-10 18:48:38,510 - INFO - server - ('127.0.0.1', 58598) подключился к чату
+2022-10-10 18:48:38,510 - INFO - server - ('127.0.0.1', 58598) подключился к чату
+2022-10-10 18:48:54,260 - INFO - server - ('127.0.0.1', 58609) подключился к чату
+2022-10-10 18:48:54,260 - INFO - server - ('127.0.0.1', 58609) подключился к чату
+2022-10-10 18:48:54,260 - INFO - server - ('127.0.0.1', 58609) подключился к чату
+2022-10-10 18:48:54,260 - INFO - server - ('127.0.0.1', 58609) подключился к чату
+2022-10-10 18:55:03,269 - CRITICAL - server - Покинул чат <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58609)>
+2022-10-10 18:55:03,269 - CRITICAL - server - Покинул чат <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58609)>
+2022-10-10 18:55:03,269 - CRITICAL - server - Покинул чат <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58609)>
+2022-10-10 18:55:03,269 - CRITICAL - server - Покинул чат <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58609)>
+2022-10-10 18:55:03,269 - CRITICAL - server - Покинул чат <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58609)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:16,041 - CRITICAL - server - Покинул чат <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58598)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:55:35,781 - CRITICAL - server - Покинул чат <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58565)>
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
+2022-10-10 18:56:25,039 - CRITICAL - server - Stop
