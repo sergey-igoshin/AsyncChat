@@ -7,7 +7,7 @@ def get_client_filename(filename):
     log_directory = os.path.join(directory, 'log')
     if not os.path.exists(log_directory):
         os.mkdir(log_directory)
-    return os.path.join(log_directory, f'{filename}.log')
+    return os.path.join(log_directory, f'{filename}.log_1')
 
 
 log_file = get_client_filename('client')

@@ -57,6 +57,8 @@ def main():
 
                 print(get_data_response)
                 logger.debug(get_data_response)
+
+
     except KeyboardInterrupt:
         logger.critical('Соединение с сервером разорвано')
     except ConnectionRefusedError:
