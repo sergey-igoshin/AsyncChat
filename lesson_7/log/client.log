@@ -1,0 +1,31 @@
+2022-10-10 18:48:27,625 - DEBUG - client - Установлено соединение с сервером
+2022-10-10 18:48:43,948 - DEBUG - client - Установлено соединение с сервером
+2022-10-10 18:49:04,560 - DEBUG - client - Установлено соединение с сервером
+2022-10-10 18:50:38,660 - INFO - client - {"action": "msg", "time": 1665417038.6591563, "to": "#room_name", "from": "Sergey", "message": "Hello"}
+2022-10-10 18:50:38,660 - INFO - client - {"action": "msg", "time": 1665417038.6591563, "to": "#room_name", "from": "Sergey", "message": "Hello"}
+2022-10-10 18:52:13,397 - INFO - client - {"action": "msg", "time": 1665417133.3962991, "to": "#room_name", "from": "Petr", "message": "Hi"}
+2022-10-10 18:52:13,397 - INFO - client - {"action": "msg", "time": 1665417133.3962991, "to": "#room_name", "from": "Petr", "message": "Hi"}
+2022-10-10 18:52:21,122 - INFO - client - {"action": "msg", "time": 1665417141.1213326, "to": "#room_name", "from": "Ivan", "message": "Hi"}
+2022-10-10 18:52:21,122 - INFO - client - {"action": "msg", "time": 1665417141.1213326, "to": "#room_name", "from": "Ivan", "message": "Hi"}
+2022-10-10 18:54:24,519 - INFO - client - {"action": "msg", "time": 1665417264.518321, "to": "#room_name", "from": "Ivan", "message": "How are you?"}
+2022-10-10 18:54:24,519 - INFO - client - {"action": "msg", "time": 1665417264.518321, "to": "#room_name", "from": "Ivan", "message": "How are you?"}
+2022-10-10 18:54:24,519 - INFO - client - {"action": "msg", "time": 1665417264.518321, "to": "#room_name", "from": "Ivan", "message": "How are you?"}
+2022-10-10 18:55:03,234 - INFO - client - {"action": "msg", "time": 1665417303.2338765, "to": "#room_name", "from": "Sergey", "message": "exit"}
+2022-10-10 18:55:03,234 - INFO - client - {"action": "msg", "time": 1665417303.2338765, "to": "#room_name", "from": "Sergey", "message": "exit"}
+2022-10-10 18:55:03,234 - INFO - client - {"action": "msg", "time": 1665417303.2338765, "to": "#room_name", "from": "Sergey", "message": "exit"}
+2022-10-10 18:55:15,892 - INFO - client - {"action": "msg", "time": 1665417315.8922648, "to": "#room_name", "from": "Petr", "message": "exit"}
+2022-10-10 18:55:15,892 - INFO - client - {"action": "msg", "time": 1665417315.8922648, "to": "#room_name", "from": "Petr", "message": "exit"}
+2022-10-10 18:55:15,892 - INFO - client - {"action": "msg", "time": 1665417315.8922648, "to": "#room_name", "from": "Petr", "message": "exit"}
+2022-10-10 18:55:16,248 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:16,248 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:16,248 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:16,248 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:35,651 - INFO - client - {"action": "msg", "time": 1665417335.6506648, "to": "#room_name", "from": "Ivan", "message": "exit"}
+2022-10-10 18:55:35,651 - INFO - client - {"action": "msg", "time": 1665417335.6506648, "to": "#room_name", "from": "Ivan", "message": "exit"}
+2022-10-10 18:55:35,651 - INFO - client - {"action": "msg", "time": 1665417335.6506648, "to": "#room_name", "from": "Ivan", "message": "exit"}
+2022-10-10 18:55:35,651 - INFO - client - {"action": "msg", "time": 1665417335.6506648, "to": "#room_name", "from": "Ivan", "message": "exit"}
+2022-10-10 18:55:35,984 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:35,984 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:35,984 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:35,984 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
+2022-10-10 18:55:35,984 - CRITICAL - client - Соединение с сервером разорвано Expecting value: line 1 column 1 (char 0)
