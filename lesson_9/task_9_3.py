@@ -17,4 +17,4 @@ def host_range_ping_tab(hosts):
 
 
 if __name__ == '__main__':
-    host_range_ping_tab(['192.168.0.7', '192.168.0.1'])
+    host_range_ping_tab(['10.0.0.1', '10.0.0.4'])
