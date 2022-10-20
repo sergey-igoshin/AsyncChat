@@ -12,9 +12,9 @@ def get_server_filename(filename):
     date = os.path.splitext(filename)[1][1:]
     if date:
         rotating_filename = os.path.join(log_directory, date)
-        return f'{rotating_filename}.log'
+        return f'{rotating_filename}.log_1'
 
-    return os.path.join(log_directory, f'{filename}.log')
+    return os.path.join(log_directory, f'{filename}.log_1')
 
 
 log_file = get_server_filename('server')

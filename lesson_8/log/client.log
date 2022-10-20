@@ -1,0 +1,6 @@
+2022-10-18 20:43:51,039 - DEBUG - client - Установлено соединение с сервером
+2022-10-18 20:44:04,870 - DEBUG - client - Установлено соединение с сервером
+2022-10-18 20:44:11,590 - INFO - client - {"action": "msg", "time": 1666115051.5909567, "to": "#room_name", "from": "Petr", "message": "He!"}
+2022-10-18 20:44:11,590 - INFO - client - {"action": "msg", "time": 1666115051.5909567, "to": "#room_name", "from": "Petr", "message": "He!"}
+2022-10-18 20:44:19,550 - INFO - client - {"action": "msg", "time": 1666115059.5505342, "to": "#room_name", "from": "Ivan", "message": "Hello!"}
+2022-10-18 20:44:19,550 - INFO - client - {"action": "msg", "time": 1666115059.5505342, "to": "#room_name", "from": "Ivan", "message": "Hello!"}
